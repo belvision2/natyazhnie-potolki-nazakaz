@@ -3,7 +3,7 @@
 @font-face {
  font-family: 'Exo 2.0 Medium';
     src: url('../fonts/exo-20-medium.eot');
-    src: url('http://potolki-natyagnye.ru/fonts/exo-20-medium?') format('embedded-opentype'),
+    src: url('../fonts/exo-20-mediumd41d.html?#iefix') format('embedded-opentype'),
       url(../fonts/exo-20-medium.woff) format('woff'),
       url(../fonts/exo-20-medium.ttf) format('truetype');
     font-weight: normal;
@@ -24,7 +24,7 @@ font-family: 'Exo 2.0 Bold';
 @font-face {
     font-family: 'exo-20-extra-bold';
     src: url('../fonts/exo-20-extra-bold.eot');
-    src: url('http://potolki-natyagnye.ru/fonts/exo-20-extra-bold?') format('embedded-opentype'),
+    src: url('../fonts/exo-20-extra-boldd41d.html?#iefix') format('embedded-opentype'),
          url('../fonts/exo-20-extra-bold.woff') format('woff'),
          url(../fonts/exo-20-extra-bold.ttf) format('truetype');
 
@@ -33,7 +33,7 @@ font-family: 'Exo 2.0 Bold';
 @font-face {
     font-family: 'exo-20-extra-bold-italic';
     src: url('../fonts/exo-20-extra-bold-italic.eot');
-    src: url('http://potolki-natyagnye.ru/fonts/exo-20-extra-bold-italic?') format('embedded-opentype'),
+    src: url('../fonts/exo-20-extra-bold-italicd41d.html?#iefix') format('embedded-opentype'),
     url('../fonts/exo-20-extra-bold-italic.woff') format('woff'),
     url(../fonts/exo-20-extra-bold-italic.ttf) format('truetype');
 
@@ -41,7 +41,7 @@ font-family: 'Exo 2.0 Bold';
 @font-face {
     font-family: 'exo-20-regular';
     src: url('../fonts/exo-20-regular.eot');
-    src: url('http://potolki-natyagnye.ru/fonts/exo-20-regular?') format('embedded-opentype'),
+    src: url('../fonts/exo-20-regulard41d.html?#iefix') format('embedded-opentype'),
     url('../fonts/exo-20-regular.woff') format('woff'),
     url(../fonts/exo-20-regular.ttf) format('truetype');
 
@@ -49,7 +49,7 @@ font-family: 'Exo 2.0 Bold';
 @font-face {
     font-family: 'exo-20-light';
     src: url('../fonts/exo-20-light.eot');
-    src: url('http://potolki-natyagnye.ru/fonts/exo-20-light?') format('embedded-opentype'),
+    src: url('../fonts/exo-20-lightd41d.html?#iefix') format('embedded-opentype'),
     url(../fonts/exo-20-light.ttf) format('truetype');
 
 }
